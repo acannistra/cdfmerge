@@ -1,0 +1,1 @@
+This is a [Dockerfile](http://docs.docker.com/engine/reference/builder/) which describes an image containing all of the necessary tools and libraries to manipulate netCDF files in Python. It's adapted from [Unidata's dockerfile](https://github.com/Unidata/Unidata-Dockerfiles/tree/master/python).
