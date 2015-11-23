@@ -15,4 +15,4 @@
    - siphon
    - xray
    - anaconda-client
-
+   - dask
